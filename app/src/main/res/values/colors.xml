@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF427EF1</color>
+    <color name="colorPrimaryDark">#FF427EF1</color>
+    <color name="colorAccent">#FFFF4081</color>
+
+    <!-- 主标题颜色 -->
+    <color name="colorMainTitle">#000000</color>
+    <!-- 次要信息字体颜色 -->
+    <color name="colorSecondary">#888888</color>
+    <!-- 暗提示色 -->
+    <color name="colorHints">#BBBBBB</color>
+    <!-- 错误,警示色 -->
+    <color name="colorWarning">#F4333C</color>
+    <!-- 重点提醒色 -->
+    <color name="colorRemind">#FF5B05</color>
+    <!-- 弹出层蒙版40% -->
+    <color name="colorMask">#66000000</color>
+    <!-- APP底色 -->
+    <color name="colorAppBackground">#F5F5F9</color>
+
+    <!-- 透明 -->
+    <color name="colorTransparent">#00000000</color>
+    <!-- 半透明 -->
+    <color name="colorHalfTransparent">#30000000</color>
+
+    <!-- 白色 -->
+    <color name="colorWhite">#FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="colorBlack">#000000</color>
+    <!-- 黄色 -->
+    <color name="colorYellow">#FFFC00</color>
+    <!-- 天蓝色 -->
+    <color name="colorSkyBlue">#87CEEB</color>
+    <!-- 浅蓝 -->
+    <color name="colorLightBlue">#33B5E5</color>
+    <!-- 主蓝色 -->
+    <color name="colorMainBlue">#427EF1</color>
+    <!-- 粉色 -->
+    <color name="colorPink">#FF87EF</color>
+    <!-- 橙色 -->
+    <color name="colorOrange">#ff6200</color>
+    <!-- 真红-->
+    <color name="colorRealRed">#F15352</color>
+    <!-- 红色 -->
+    <color name="colorRed">#FF0000</color>
+    <!-- 深红色 -->
+    <color name="colorDarkRed">#ffb93221</color>
+    <!-- 浅绿色 -->
+    <color name="colorLightGreen">#9CDC6A</color>
+    <!-- 绿色 -->
+    <color name="colorGreen">#5AB75E</color>
+    <!-- 豆绿色 -->
+    <color name="colorDarkGreen">#658017</color>
+
+    <!-- 象牙白 -->
+    <color name="colorIvory">#FFFFF0</color>
+    <!-- 灰白色 -->
+    <color name="colorWhiteGray">#ebebeb</color>
+    <!-- 浅灰色 -->
+    <color name="colorLightGray">#887c7c7c</color>
+    <!-- 灰色 -->
+    <color name="colorGray">#484848</color>
+    <!-- 深灰色 -->
+    <color name="colorDarkGray">#2e2e2e</color>
+
+    <!-- 分割线的颜色 -->
+    <color name="colorSeparatorLine">#DCDCDE</color>
+</resources>
